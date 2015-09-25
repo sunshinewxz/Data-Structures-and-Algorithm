@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443065254 source:/Users/wangxinze/Documents/exercise/Trie/main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
