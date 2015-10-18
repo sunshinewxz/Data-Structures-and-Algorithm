@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444546237 source:/Users/wangxinze/Documents/exercise/Quick_Sort/main.c
+	<stdio.h>
+	<stdlib.h>
+
